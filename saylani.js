@@ -4,4 +4,13 @@ const typed = new Typed('.multiple-text', {
     backSpeed: 80,       
     backDelay: 1200,    
     loop: true            
+
 });
+
+
+
+
+
+
+
+
